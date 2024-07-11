@@ -225,11 +225,20 @@ h6 {
 }
 
 /*--------------------------------------------------------------
+# Success Section
+--------------------------------------------------------------*/
+#success {
+  width: 100%;
+  height: 100vh;
+  background: url("../img/background-img.jpg") top center;
+  background-size: cover;
+}
+/*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: 100vh;
+  height: 75vh;
   background: url("../img/background-img.jpg") top center;
   background-size: cover;
 }
