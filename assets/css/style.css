@@ -477,18 +477,6 @@ section {
   font-style: normal;
 }
 
-.skills {
-  background: #dce8f8;
-  height: 10px;
-}
-
-.skills {
-  width: 1px;
-  height: 10px;
-  transition: 0.9s;
-  background-color: #C41E3A;
-}
-
 /*--------------------------------------------------------------
 # Resume
 --------------------------------------------------------------*/
