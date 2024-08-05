@@ -438,7 +438,7 @@ section {
 /*--------------------------------------------------------------
 # Skills
 --------------------------------------------------------------*/
-.progress {
+.ability {
   text-align: center;
   display: flex;
   flex-wrap: wrap;
@@ -451,18 +451,18 @@ section {
   padding: 14px;
 }
 
-.progress.skill:hover {
+.ability.skill:hover {
   color: #800000;
 }
 
-.skills .progress {
+.skills .ability {
   height: 80px;
   display: block;
   background: none;
   border-radius: 0;
 }
 
-.skills .progress .skill {
+.skills .ability .skill {
   padding: 0;
   margin: 0 0 6px 0;
   text-transform: uppercase;
@@ -472,17 +472,17 @@ section {
   color: #2A2B2E;
 }
 
-.skills .progress .skill .val {
+.skills .ability .skill .val {
   float: right;
   font-style: normal;
 }
 
-.skills .progress-bar-wrap {
+.skills {
   background: #dce8f8;
   height: 10px;
 }
 
-.skills .progress-bar {
+.skills {
   width: 1px;
   height: 10px;
   transition: 0.9s;
